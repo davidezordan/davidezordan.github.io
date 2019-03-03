@@ -4,8 +4,8 @@ title: 'Microsoft Bot Framework: showing a welcome message at the start of a new
 date: 2017-05-08T14:33:08+00:00
 author: Davide
 layout: post
-guid: http://www.davidezordan.net/blog/?p=8119
-permalink: /?p=8119
+# guid: http://www.davidezordan.net/blog/?p=8119
+# permalink: /?p=8119
 categories:
   - .NET
   - Azure
