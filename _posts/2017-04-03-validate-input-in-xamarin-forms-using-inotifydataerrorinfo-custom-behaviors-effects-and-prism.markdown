@@ -2,15 +2,10 @@
 id: 8093
 title: Validate input in Xamarin.Forms using INotifyDataErrorInfo, custom Behaviors, Effects and Prism
 date: 2017-04-03T20:16:48+00:00
-author: Davide
+author: davidezordan
 layout: post
 guid: http://www.davidezordan.net/blog/?p=8093
 permalink: /?p=8093
-categories:
-  - Mobile
-  - Programming
-  - Universal Windows Platform
-  - Xamarin
 category: blog
 tags:
   - Android
