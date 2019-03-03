@@ -40,7 +40,8 @@ The Computer Vision APIs can be accessed via the package <strong>Microsoft.Proje
 <img class="aligncenter size-large wp-image-8238" src="../wp-content/uploads/2018/02/03-NuGet-Microsoft.ProjectOxford.Vision-1024x673.png" alt="" width="660" height="434" />
 
 The test UI contains an image and two buttons: one for selecting a file using a <strong>FileOpenPicker</strong> and another for capturing a new image using the <strong>CameraCaptureUI</strong>. I decided to wrap these two actions in an <strong>InteractionsHelper</strong> class:
-<pre title="Interactions Helper class" class="lang:default decode:true">public class InteractionsHelper
+{% highlight csharp %}
+public class InteractionsHelper
 {
     CognitiveVisionHelper _visionHelper;
 
@@ -94,11 +95,15 @@ The test UI contains an image and two buttons: one for selecting a file using a 
 
         return result;
     }
-}</pre>
+}
+{% endhighlight %}
+
 I then worked on the shared library creating a helper class for processing the image using the Vision APIs available in <strong>Microsoft.ProjectOxford.Vision</strong> and parsing the result.
 
 <em>Tip: after creating the VisionServiceClient, I received an unauthorised error when specifying only the key: the error disappeared by also specifying the endpoint URL available in the Azure portal.</em>
-<pre title="Shared Library for accessing Vision API" class="lang:default decode:true">using Microsoft.ProjectOxford.Vision;
+
+{% highlight csharp %}
+using Microsoft.ProjectOxford.Vision;
 using Microsoft.ProjectOxford.Vision.Contract;
 using System;
 using System.IO;
@@ -160,13 +165,17 @@ public class CognitiveVisionHelper
     {
         return analysisResult.Description.Captions[0].Text;
     }
-}</pre>
+}
+{% endhighlight %}
+
 I then launched the test UI, and the image was successfully analysed, and the results returned from the Computer Vision APIs, in this case identifying a building and several other tags like outdoor, city, park: great!
 
 <img class="aligncenter size-large wp-image-8239" src="../wp-content/uploads/2018/02/04-Running-the-UWP-test-app-1024x800.png" alt="" width="660" height="516" />
 
 I also added a Speech Synthesizer playing the general description returned by the Cognitive Services call:
-<pre title="Speech synthesizer" class="lang:default decode:true ">private async void Speak(string Text)
+
+{% highlight csharp %}
+private async void Speak(string Text)
 {
     MediaElement mediaElement = this.media;
     var synth = new SpeechSynthesizer();
@@ -174,7 +183,9 @@ I also added a Speech Synthesizer playing the general description returned by th
     mediaElement.SetSource(stream, stream.ContentType);
 
     mediaElement.Play();
-}</pre>
+}
+{% endhighlight %}
+
 I then moved to HoloLens and started creating the interface using Unity, the Mixed Reality Toolkit and UWP.
 <h1>Creating the Unity HoloLens experience</h1>
 First of all, I created a new Unity project using Unity 2017.2.1p4 and then added a new folder named <strong>Scenes</strong> and saved the active scene as <strong>CognitiveServicesVision Scene</strong>.
@@ -204,7 +215,9 @@ First of all, I enabled the <strong>Experimental (.NET 4.6 Equivalent)</strong> 
 Then, I created a <em>Scripts</em> folder and added a new <strong>PhotoManager.cs</strong> script taking as a starting point the implementation available in <a href="https://github.com/JannikLassahn/hololens-photocapture" target="_blank" rel="noopener">this</a> GitHub project.
 
 The script can be attached to a <strong>TextMesh</strong> component visualising the status:
-<pre title="PhotoManager Script" class="lang:default decode:true ">using HoloToolkit.Unity;
+
+{% highlight csharp %}
+using HoloToolkit.Unity;
 using System;
 using System.Linq;
 using UnityEngine;
@@ -240,9 +253,13 @@ public class PhotoManager : MonoBehaviour
         StorageLibrary picturesStorage = await StorageLibrary.GetLibraryAsync(KnownLibraryId.Pictures);
         _pictureFolderPath = picturesStorage.SaveFolder.Path;
     }
-#endif</pre>
+#endif
+{% endhighlight %}
+
 Initialising the <strong>PhotoCapture</strong> API available in Unity <a href="https://docs.unity3d.com/Manual/windowsholographic-photocapture.html" target="_blank" rel="noopener">https://docs.unity3d.com/Manual/windowsholographic-photocapture.html</a>
-<pre title="PhotoCapture API usage" class="lang:default decode:true">public void StartCamera()
+
+{% highlight csharp %}
+public void StartCamera()
 {
     PhotoCapture.CreateAsync(true, OnPhotoCaptureCreated);
 
@@ -285,9 +302,13 @@ public void TakePhoto()
     {
         SetStatus("The camera is not yet ready.");
     }
-}</pre>
+}
+{% endhighlight %}
+
 Saving the photo to the pictures library folder and then passing it to the library created in the previous section:
-<pre title="Save image to device" class="lang:default decode:true ">private async void OnCapturedPhotoToDisk(PhotoCapture.PhotoCaptureResult result)
+
+{% highlight csharp %}
+private async void OnCapturedPhotoToDisk(PhotoCapture.PhotoCaptureResult result)
 {
     if (result.success)
     {
@@ -324,7 +345,9 @@ Saving the photo to the pictures library folder and then passing it to the libra
     {
         SetStatus("Failed to save photo");
     }
-}</pre>
+}
+{% endhighlight %}
+
 The code references the <strong>CognitiveServicesVisionLibrary</strong> UWP library created previously: to use it from Unity, I created a new <em>Plugins </em>folder in my project and ensured that the Build output of the Visual Studio library project was copied to this folder:
 
 <img class="aligncenter size-large wp-image-8245" src="../wp-content/uploads/2018/02/09-Visual-Studio-Project-Settings-1024x292.png" alt="" width="660" height="188" />And then set the import settings in Unity for the custom library:
@@ -356,7 +379,9 @@ The last step required to enable <strong>Text to Speech</strong> for receiving t
 <img class="aligncenter size-large wp-image-8251" src="../wp-content/uploads/2018/02/14-Text-to-Speech-1024x386.png" alt="" width="660" height="249" />
 
 And enabled the speech in the script using <strong>StartSpeaking()</strong>:
-<pre title="Text to Speech" class="lang:default decode:true ">…
+
+{% highlight csharp %}
+…
   _textToSpeechComponent = GetComponent&lt;TextToSpeech&gt;();
 …
 
@@ -369,7 +394,9 @@ private void SetStatus(string statusText)
 private void Speak(string description)
 {
     _textToSpeechComponent.StartSpeaking(description);
-}</pre>
+}
+{% endhighlight %}
+
 I also added other two components available in the Mixed Reality Toolkit: <strong>Tagalong</strong> and <strong>Billboard</strong> to have the status text following me and not anchored to a specific location:
 
 <img class="aligncenter size-large wp-image-8252" src="../wp-content/uploads/2018/02/15-TagAlong-and-Billboard-1024x769.png" alt="" width="660" height="496" />
@@ -381,5 +408,3 @@ I was then able to generate the final package using Unity specifying the startin
 The combination of Mixed Reality and Cognitive Services opens a new world of experiences combining the capabilities of HoloLens and all the power of the intelligent cloud. In this article, I’ve analysed the Computer Vision APIs, but a similar approach could be applied to augment Windows Mixed Reality apps and enrich them with the AI platform <a href="https://www.microsoft.com/en-gb/ai" target="_blank" rel="noopener">https://www.microsoft.com/en-gb/ai</a>.
 
 The source code for this article is available on GitHub: <a href="https://github.com/davidezordan/CognitiveServicesSamples" target="_blank" rel="noopener">https://github.com/davidezordan/CognitiveServicesSamples</a>
-
-&nbsp;
