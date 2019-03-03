@@ -4,7 +4,7 @@ title: 'Microsoft Bot Framework: using a LuisDialog for processing intents'
 date: 2017-05-24T21:52:45+00:00
 author: davidezordan
 layout: post
-# guid: http://www.davidezordan.net/blog/?p=8163
+guid: http://www.davidezordan.net/blog/?p=8163
 # permalink: /?p=8163
 categories:
   - .NET

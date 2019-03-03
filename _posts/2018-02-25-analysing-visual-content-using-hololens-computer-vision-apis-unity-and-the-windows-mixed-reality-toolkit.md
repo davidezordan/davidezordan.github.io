@@ -4,7 +4,7 @@ title: Analysing visual content using HoloLens, Computer Vision APIs, Unity and 
 date: 2018-02-25T14:32:10+00:00
 author: davidezordan
 layout: post
-# guid: http://www.davidezordan.net/blog/?p=8234
+guid: http://www.davidezordan.net/blog/?p=8234
 # permalink: /?p=8234
 categories:
   - .NET

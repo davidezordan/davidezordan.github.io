@@ -4,7 +4,7 @@ title: Experiments with HoloLens, Mixed Reality Toolkit and two-handed manipulat
 date: 2018-03-11T13:12:30+00:00
 author: davidezordan
 layout: post
-# guid: http://www.davidezordan.net/blog/?p=8273
+guid: http://www.davidezordan.net/blog/?p=8273
 # permalink: /?p=8273
 categories:
   - Mixed Reality

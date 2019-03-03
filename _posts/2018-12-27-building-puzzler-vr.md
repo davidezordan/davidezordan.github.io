@@ -4,7 +4,7 @@ title: Building Puzzler VR
 date: 2018-12-27T14:37:20+00:00
 layout: post
 author: davidezordan
-# guid: https://medium.com/p/6e21dfab1510
+guid: https://medium.com/p/6e21dfab1510
 # permalink: /?p=8388
 image: /wp-content/uploads/2018/12/Puzzler-VR.jpeg
 categories:
