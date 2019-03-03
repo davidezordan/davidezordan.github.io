@@ -21,7 +21,7 @@ tags:
   - Universal Windows Platform
 ---
 <p style="text-align: justify;">Recently I had the opportunity to use a HoloLens device for some personal training and building some simple demos.</p>
-<p style="text-align: justify;"><img class="aligncenter wp-image-8156 size-medium" src="/wp-content/uploads/2017/05/HoloLens-dev-kit-225x300.jpg" alt="" width="225" height="300" /></p>
+<p style="text-align: justify;"><img class="aligncenter wp-image-8156 size-medium" src="../wp-content/uploads/2017/05/HoloLens-dev-kit-225x300.jpg" alt="" width="225" height="300" /></p>
 <p style="text-align: justify;">One of the scenarios that I find very intriguing is the possibility of integrating Mixed Reality and Artificial Intelligence (AI) in order to create immersive experiences for the user.</p>
 <p style="text-align: justify;">I decided to perform an experiment by integrating a Bot, Language Understanding Intelligent Services (LUIS), Speech Recognition and Mixed Reality via a Holographic 2D app.</p>
 <p style="text-align: justify;">The idea was to create a sort of "digital assistant" of myself that can be contacted using Mixed Reality: the first implementation contains only basic interactions (answering questions like "What are your favourite technologies" or "What's your name") but these could be easily be expanded in the future with features like time management (via the Graph APIs) or tracking projects status, etc.</p>
