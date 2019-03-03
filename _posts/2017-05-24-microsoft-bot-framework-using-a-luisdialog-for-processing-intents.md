@@ -21,9 +21,10 @@ tags:
 <p style="text-align: justify;">Instead of using the exposed LUIS endpoint and parsing the returned JSON, the framework already provides a specific <strong>LuisDialog&lt;&gt;</strong> type which can be used for handling the various intents, in order to make the code cleaner and more extensible.</p>
 <p style="text-align: justify;">I've then modified the <strong>HoloLensBotDemo</strong> sample and added a new <strong>RootLuisDialog</strong>:</p>
 
-<pre title="RootLuisDialog for handling intents" class="lang:default decode:true">[LuisModel("YourModelId", "YourSubscriptionKey")]
+{% highlight csharp %}
+[LuisModel("YourModelId", "YourSubscriptionKey")]
 [Serializable]
-public class RootLuisDialog : LuisDialog&lt;object&gt;
+public class RootLuisDialog : LuisDialog<object>
 {
     [LuisIntent("")]
     [LuisIntent("None")]
@@ -61,11 +62,11 @@ public class RootLuisDialog : LuisDialog&lt;object&gt;
         await context.PostAsync(@"Hi there! Davide here :) This is my personal Bot. Try asking 'What are your favourite technologies?'");
         context.Wait(this.MessageReceived);
     }
-}</pre>
+}
+{% endhighlight %}
+
 And this is all the code now needed for the Bot.
 
 The updated source code is available on <strong><a href="https://github.com/davidezordan/HoloLens-Bot-Demo" target="_blank" rel="noopener noreferrer">GitHub</a></strong>.
 
 Happy coding!
-
-&nbsp;
