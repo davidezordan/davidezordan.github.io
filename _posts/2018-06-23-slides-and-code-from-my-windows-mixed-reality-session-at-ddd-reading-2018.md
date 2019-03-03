@@ -5,7 +5,7 @@ date: 2018-06-23T14:30:27+00:00
 author: davidezordan
 layout: post
 guid: https://www.davidezordan.net/blog/?p=8336
-# permalink: /?p=8336
+permalink: /blog/?p=8336
 categories:
   - Mixed Reality
   - Programming
