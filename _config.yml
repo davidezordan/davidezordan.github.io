@@ -1,9 +1,9 @@
 # main text of home
 name: Davide Zordan
-bio: Dad, technology lover, blogger. Software engineer at @JPMorgan. #AR, #VR, #MixedReality developer and enthusiast. Opinions are my own.
+bio: Dad, technology lover, blogger. AR, VR, Mixed Reality developer and enthusiast. Opinions are my own.
 
 # twitter summary info
-description: Dad, technology lover, blogger. Software engineer at @JPMorgan. #AR, #VR, #MixedReality developer and enthusiast. Opinions are my own.
+description: Dad, technology lover, blogger. AR, VR, Mixed Reality developer and enthusiast. Opinions are my own.
 
 # if it's an external image, update below for true
 # better with square images
@@ -35,11 +35,11 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: https://twitter.com/davidezordan
+twitter: davidezordan
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/davidezordan/
+linkedin: davidezordan/
 # youtube: myyoutube
 # spotify: myspotify
 github: https://github.com/davidezordan
@@ -56,7 +56,7 @@ email: mail@davide.dev
 authors:
     davidezordan:
         name: Davide Zordan
-        bio: Dad, technology lover, blogger. Software engineer at @JPMorgan. #AR, #VR, #MixedReality developer and enthusiast. Opinions are my own.
+        bio: Dad, technology lover, blogger. AR, VR, Mixed Reality developer and enthusiast. Opinions are my own.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: davidezordan
