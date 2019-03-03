@@ -38,23 +38,6 @@ If you want to test locally on your machine, do the following steps also:
 6. Test your app with `bundle exec htmlproofer ./_site`
 7. Do you want to use the [jekyll-admin](https://jekyll.github.io/jekyll-admin/) plugin to edit your posts? Go to the admin panel: `http://localhost:4000/admin`. The admin panel will not work on GitHub Pages, [only locally](https://github.com/jekyll/jekyll-admin/issues/341#issuecomment-292739469).
 
-## Settings
-
-You must fill some informations on `_config.yml` to customize your site.
-
-```
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
-picture: 'assets/images/profile.jpg'
-...
-
-and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
-```
-
-## How To?
-
-Check the [FAQ](./FAQ.md) if you have any doubt or problem.
-
 ---
-
+[MIT](https://opensource.org/licenses/MIT) License © Davide Zordan
 [MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
