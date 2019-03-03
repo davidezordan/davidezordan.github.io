@@ -54,7 +54,7 @@ tags:
     return null;
 }</pre>
 <p style="text-align: justify;">When I ran this, the message was presented twice in the <strong><a href="https://docs.microsoft.com/en-us/bot-framework/debug-bots-emulator" target="_blank" rel="noopener noreferrer">Bot Framework Emulator</a></strong>:</p>
-<img class="alignleft wp-image-8122 size-large" src="http://www.davidezordan.net/blog/wp-content/uploads/2017/05/Welcome-Twice-1024x541.png" alt="" width="660" height="349" />
+<img class="alignleft wp-image-8122 size-large" src="../wp-content/uploads/2017/05/Welcome-Twice-1024x541.png" alt="" width="660" height="349" />
 <p style="text-align: justify;">After some investigation, I discovered that the <em>ConversationUpdate</em> activity is triggered both when the connection to the Bot is established and when a new user joins the conversation.</p>
 <p style="text-align: justify;">As explained on <strong><a href="https://github.com/Microsoft/BotFramework-Emulator/issues/99" target="_blank" rel="noopener noreferrer">GitHub</a></strong>, the correct way to handle this case is by showing the welcome message only when a new user is added:</p>
 
@@ -103,5 +103,5 @@ tags:
     return null;
 }</pre>
 <p style="text-align: justify;">Using this approach the welcome message is displayed properly:</p>
-<img class="size-large wp-image-8123 alignleft" src="http://www.davidezordan.net/blog/wp-content/uploads/2017/05/Welcome-Message-1024x541.png" alt="" width="660" height="349" />
+<img class="size-large wp-image-8123 alignleft" src="../wp-content/uploads/2017/05/Welcome-Message-1024x541.png" alt="" width="660" height="349" />
 <p style="text-align: justify;">Happy coding!</p>

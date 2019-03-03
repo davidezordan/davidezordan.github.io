@@ -27,15 +27,15 @@ To test it, I downloaded a trial of NDepend from <a href="https://www.ndepend.co
 <h2>Exploring new .NET Core 2.1 APIs</h2>
 Since I tried recently .NET Core 2.1.0 preview 2, I explored the differences between this version and version 2.0.7 available on my machine under the folder <strong>C:\Program Files\dotnet\shared\Microsoft.NETCore.App</strong>: using the <em>NDEPEND-&gt;Diff</em> menu I selected the assemblies related to the two versions
 
-<img class="aligncenter size-large wp-image-8308" src="https://www.davidezordan.net/blog/wp-content/uploads/2018/05/NDepend-Select-assemblies-1024x419.png" alt="" width="660" height="270" />
+<img class="aligncenter size-large wp-image-8308" src="../wp-content/uploads/2018/05/NDepend-Select-assemblies-1024x419.png" alt="" width="660" height="270" />
 
 And I was able to obtain a list of the new public methods available in the latest release:
 
-<img class="aligncenter size-large wp-image-8309" src="https://www.davidezordan.net/blog/wp-content/uploads/2018/05/NDepend-New-public-methods-992x1024.png" alt="" width="660" height="681" />
+<img class="aligncenter size-large wp-image-8309" src="../wp-content/uploads/2018/05/NDepend-New-public-methods-992x1024.png" alt="" width="660" height="681" />
 
 Then a detailed view of other metrics using the NDepend dashboard including a complex dependency map:
 
-<img class="aligncenter size-large wp-image-8310" src="https://www.davidezordan.net/blog/wp-content/uploads/2018/05/NDepend-Code-metrics-Diff-1024x491.png" alt="" width="660" height="316" />
+<img class="aligncenter size-large wp-image-8310" src="../wp-content/uploads/2018/05/NDepend-Code-metrics-Diff-1024x491.png" alt="" width="660" height="316" />
 
 It’s possible to extract numerous information related to the differences between the two .NET Core versions including assemblies, public methods, types, fields added/removed plus more.
 
@@ -48,7 +48,7 @@ A useful article available on the <a href="https://blog.ndepend.com/new-net-core
 </ul>
 As a next step, I created a new blank ASP.NET Core Web Application and ran a code analysis and obtained a list of queries and rules starting from the NDepend dashboard:
 
-<img class="aligncenter size-large wp-image-8311" src="https://www.davidezordan.net/blog/wp-content/uploads/2018/05/NDepend-Dashboard-1024x477.png" alt="" width="660" height="307" />
+<img class="aligncenter size-large wp-image-8311" src="../wp-content/uploads/2018/05/NDepend-Dashboard-1024x477.png" alt="" width="660" height="307" />
 
 It is possible to discover a variety of rules, object-oriented design, breaking changes, naming conventions, source file organisation, architecture improvements and more to enhance the codebase of the .NET Core app: this is a real time saver when exploring new codebases or performing code reviews.
 
