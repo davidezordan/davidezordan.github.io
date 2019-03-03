@@ -2,10 +2,10 @@
 id: 8273
 title: Experiments with HoloLens, Mixed Reality Toolkit and two-handed manipulations
 date: 2018-03-11T13:12:30+00:00
-author: Davide
+author: davidezordan
 layout: post
-guid: http://www.davidezordan.net/blog/?p=8273
-permalink: /?p=8273
+# guid: http://www.davidezordan.net/blog/?p=8273
+# permalink: /?p=8273
 categories:
   - Mixed Reality
   - Programming

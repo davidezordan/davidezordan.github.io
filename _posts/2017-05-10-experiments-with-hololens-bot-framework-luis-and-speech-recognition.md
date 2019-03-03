@@ -2,10 +2,10 @@
 id: 8130
 title: Experiments with HoloLens, Bot Framework, LUIS and Speech Recognition
 date: 2017-05-10T14:02:41+00:00
-author: Davide
+author: davidezordan
 layout: post
-guid: http://www.davidezordan.net/blog/?p=8130
-permalink: /?p=8130
+# guid: http://www.davidezordan.net/blog/?p=8130
+# permalink: /?p=8130
 categories:
   - .NET
   - Azure

@@ -2,10 +2,10 @@
 id: 8307
 title: Analysing .NET Core applications using NDepend
 date: 2018-05-16T14:55:55+00:00
-author: Davide
+author: davidezordan
 layout: post
-guid: https://www.davidezordan.net/blog/?p=8307
-permalink: /?p=8307
+# guid: https://www.davidezordan.net/blog/?p=8307
+# permalink: /?p=8307
 categories:
   - .NET
   - Programming

@@ -2,7 +2,7 @@
 id: 8119
 title: 'Microsoft Bot Framework: showing a welcome message at the start of a new conversation'
 date: 2017-05-08T14:33:08+00:00
-author: Davide
+author: davidezordan
 layout: post
 # guid: http://www.davidezordan.net/blog/?p=8119
 # permalink: /?p=8119

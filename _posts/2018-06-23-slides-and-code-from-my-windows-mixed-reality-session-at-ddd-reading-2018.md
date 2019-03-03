@@ -2,10 +2,10 @@
 id: 8336
 title: Slides and code from my Windows Mixed Reality session at DDD Reading 2018
 date: 2018-06-23T14:30:27+00:00
-author: Davide
+author: davidezordan
 layout: post
-guid: https://www.davidezordan.net/blog/?p=8336
-permalink: /?p=8336
+# guid: https://www.davidezordan.net/blog/?p=8336
+# permalink: /?p=8336
 categories:
   - Mixed Reality
   - Programming

@@ -2,10 +2,10 @@
 id: 8183
 title: Exploring Windows Mixed Reality, switching between 2D / 3D and embedding Web Views
 date: 2017-07-28T15:27:02+00:00
-author: Davide
+author: davidezordan
 layout: post
-guid: http://www.davidezordan.net/blog/?p=8183
-permalink: /?p=8183
+# guid: http://www.davidezordan.net/blog/?p=8183
+# permalink: /?p=8183
 categories:
   - .NET
   - Mixed Reality

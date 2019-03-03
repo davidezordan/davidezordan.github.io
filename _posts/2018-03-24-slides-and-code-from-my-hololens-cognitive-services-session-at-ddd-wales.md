@@ -2,10 +2,10 @@
 id: 8288
 title: 'Slides and code from my HoloLens &#038; Cognitive Services session at DDD Wales'
 date: 2018-03-24T14:22:48+00:00
-author: Davide
+author: davidezordan
 layout: post
-guid: http://www.davidezordan.net/blog/?p=8288
-permalink: /?p=8288
+# guid: http://www.davidezordan.net/blog/?p=8288
+# permalink: /?p=8288
 categories:
   - Mixed Reality
   - Universal Windows Platform
