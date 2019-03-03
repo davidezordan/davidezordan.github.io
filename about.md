@@ -4,43 +4,36 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm an award-winning, quality-focused technical professional with a strong history of success in Software Engineering, Research & Development and Quality Assurance Management as well as strategically aligning business objectives with customer demands.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm very passionate about emerging technologies, in particular, Augmented / Virtual Reality application development using Unity and its possible applications for both enterprises and consumers.</p>
+
+<p>My work and projects have been internationally recognised: I've been awarded five times Microsoft MVP (Most Valuable Professional) and invited to participate in the Developer Guidance Advisory Council.<p>
+
+Specialities: Mixed Reality, Virtual Reality, C#, JavaScript, HTML5, CSS3, React, .NET, C#, MVVM, Unit Testing, Continuous Integration, Continuous Delivery, Jenkins, Scrum, Agile, HoloLens, Cloud Foundry.
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Mixed Reality - Virtual Reality - Augmented Reality</li>
+	<li>Unity</li>
+	<li>C# - .NET</li>
+	<li>ReactJS - Redux</li>
+	<li>JavaScript - HTML5 - CSS3</li>
+	<li>Node.js</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
+	<li>Jenkins</li>
+	<li>Cloud Foundry - Azure</li>
 	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>TDD - Continuous Integration - Continuos Delivery</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/davidezordan/RubeGoldberg">Rube Goldberg VR</a></li>
+	<li><a href="https://github.com/davidezordan/Puzzler">Puzzler VR</a></li>
+	<li><a href="https://github.com/davidezordan/A-Maze">A Maze VR</a></li>
+	<li><a href="https://github.com/davidezordan/Build-an-apartment">Build an apartment VR</a></li>
+	<li><a href="https://github.com/davidezordan/CognitiveServicesSamples">HoloLens object recognizer</a></li>
 </ul>
