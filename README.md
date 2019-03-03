@@ -40,4 +40,5 @@ If you want to test locally on your machine, do the following steps also:
 
 ---
 [MIT](https://opensource.org/licenses/MIT) License © Davide Zordan
+
 [MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
