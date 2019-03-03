@@ -125,4 +125,4 @@ I have published this project on <a href="https://github.com/davidezordan/Puzzle
 
 <strong>Build an Apartment</strong> — Explore a modern apartment in VR with high-performance lighting, custom materials, and animation using Unity. <a href="https://github.com/davidezordan/Build-an-apartment">https://github.com/davidezordan/Build-an-apartment</a>
 
-<strong><a href="./analysing-visual-content-using-hololens-computer-vision-apis-unity-and-the-windows-mixed-reality-toolkit">Analysing visual content using HoloLens, Computer Vision APIs, Unity and the Mixed Reality Toolkit</a> </strong>— A GitHub project for exploring the environment using a mixed reality device and computer vision APIs.
+<strong><a href="../analysing-visual-content-using-hololens-computer-vision-apis-unity-and-the-windows-mixed-reality-toolkit">Analysing visual content using HoloLens, Computer Vision APIs, Unity and the Mixed Reality Toolkit</a> </strong>— A GitHub project for exploring the environment using a mixed reality device and computer vision APIs.
