@@ -9,6 +9,7 @@ permalink: /?p=8288
 categories:
   - Mixed Reality
   - Universal Windows Platform
+category: blog
 tags:
   - 'C#'
   - HoloLens

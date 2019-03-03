@@ -10,6 +10,7 @@ categories:
   - .NET
   - Mixed Reality
   - Universal Windows Platform
+category: blog
 tags:
   - Cognitive Services
   - HoloLens

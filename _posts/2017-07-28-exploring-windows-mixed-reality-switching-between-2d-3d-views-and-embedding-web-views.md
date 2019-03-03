@@ -11,6 +11,7 @@ categories:
   - Mixed Reality
   - Programming
   - Universal Windows Platform
+category: blog
 tags:
   - HoloLens
   - Mixed Reality

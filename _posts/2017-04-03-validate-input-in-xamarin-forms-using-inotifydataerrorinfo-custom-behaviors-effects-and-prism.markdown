@@ -11,6 +11,7 @@ categories:
   - Programming
   - Universal Windows Platform
   - Xamarin
+category: blog
 tags:
   - Android
   - iOS

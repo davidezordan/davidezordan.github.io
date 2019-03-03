@@ -11,6 +11,7 @@ categories:
   - Programming
   - Universal Windows Platform
   - 'UX - Design'
+category: blog
 tags:
   - HoloLens
   - Unity

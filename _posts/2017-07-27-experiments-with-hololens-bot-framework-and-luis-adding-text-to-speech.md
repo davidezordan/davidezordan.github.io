@@ -12,6 +12,7 @@ categories:
   - Mixed Reality
   - Programming
   - Universal Windows Platform
+category: blog
 tags:
   - Bot Framework
   - HoloLens

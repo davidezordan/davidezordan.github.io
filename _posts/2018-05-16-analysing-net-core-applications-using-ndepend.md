@@ -9,6 +9,7 @@ permalink: /?p=8307
 categories:
   - .NET
   - Programming
+category: blog
 tags:
   - .NET
   - .NET Core

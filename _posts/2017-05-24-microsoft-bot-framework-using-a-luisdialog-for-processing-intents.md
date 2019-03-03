@@ -11,6 +11,7 @@ categories:
   - Azure
   - Cloud Computing
   - Programming
+category: blog
 tags:
   - Bot Framework
   - LUIS

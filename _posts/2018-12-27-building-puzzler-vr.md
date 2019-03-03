@@ -9,6 +9,7 @@ image: /wp-content/uploads/2018/12/Puzzler-VR.jpeg
 categories:
   - Mixed Reality
   - Mobile
+category: blog
 tags:
   - Unity
   - Virtual Reality

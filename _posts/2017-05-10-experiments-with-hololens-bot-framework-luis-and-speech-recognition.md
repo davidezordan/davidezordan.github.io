@@ -12,6 +12,7 @@ categories:
   - Cloud Computing
   - Programming
   - Universal Windows Platform
+category: blog
 tags:
   - Bot Framework
   - HoloLens
