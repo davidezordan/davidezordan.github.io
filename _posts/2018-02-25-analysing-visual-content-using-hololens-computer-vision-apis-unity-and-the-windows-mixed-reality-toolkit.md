@@ -6,6 +6,7 @@ author: davidezordan
 layout: post
 guid: http://www.davidezordan.net/blog/?p=8234
 # permalink: /?p=8234
+alias: [/blog/?p=8234]
 categories:
   - .NET
   - Mixed Reality
