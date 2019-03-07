@@ -101,6 +101,9 @@ show-author: true
 # do you want some animations?
 animation: true
 
+# enable custom plugins
+safe: false
+
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
