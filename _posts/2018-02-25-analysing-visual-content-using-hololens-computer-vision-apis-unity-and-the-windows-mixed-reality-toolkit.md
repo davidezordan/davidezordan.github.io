@@ -5,6 +5,7 @@ date: 2018-02-25T14:32:10+00:00
 author: davidezordan
 layout: post
 guid: http://www.davidezordan.net/blog/?p=8234
+alias: [/blog/?p=8234]
 # permalink: /blog/?p=8234
 categories:
   - .NET
