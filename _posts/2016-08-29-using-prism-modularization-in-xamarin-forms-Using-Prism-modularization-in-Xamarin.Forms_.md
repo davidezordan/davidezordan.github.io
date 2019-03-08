@@ -4,6 +4,7 @@ title: Using Prism modularization in Xamarin.Forms
 date: 2016-08-29T10:48:29+00:00
 author: davidezordan
 layout: post
+published: true
 guid: http://www.davidezordan.net/blog/?p=7893
 # permalink: /?p=7893
 categories:
@@ -27,7 +28,7 @@ tags:
 
 <p style="text-align: justify;">After downloading the new template pack, I created a new solution selecting New Project =&gt; Templates =&gt; Visual C# =&gt; Prism =&gt; Forms =&gt; Prism Unity App:</p>
 
-<p style="text-align: justify;"><img class="size-medium wp-image-7904 aligncenter" src="http://www.davidezordan.net/blog/wp-content/uploads/2016/08/PrismTemplatePack-256x300.png" alt="PrismTemplatePack" width="256" height="300"></p>
+<p style="text-align: justify;"><img class="size-medium wp-image-7904 aligncenter" src="/wp-content/uploads/2016/08/PrismTemplatePack-256x300.png" alt="PrismTemplatePack" width="256" height="300"></p>
 
 <p style="text-align: justify;">The new wizard is very useful and permits to select the platforms to target in the project: I selected Android, iOS and UWP and the project was generated targeting the three platforms with a shared PCL. NuGet packages were already updated to the latest version so no need for further actions.</p>
 
