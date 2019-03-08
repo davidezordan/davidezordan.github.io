@@ -5,7 +5,7 @@ date: 2016-08-29T10:48:29+00:00
 author: davidezordan
 layout: post
 guid: http://www.davidezordan.net/blog/?p=7893
-#permalink: /?p=7893
+# permalink: /?p=7893
 categories:
   - .NET
   - Android
