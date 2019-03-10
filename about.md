@@ -17,15 +17,15 @@ Specialities: Mixed Reality, Virtual Reality, C#, JavaScript, HTML5, CSS3, React
 <ul class="skill-list">
 	<li>Mixed Reality - Virtual Reality - Augmented Reality</li>
 	<li>Unity</li>
-	<li>C# - .NET</li>
 	<li>React - Redux</li>
 	<li>JavaScript - HTML5 - CSS3</li>
 	<li>Node.js</li>
+	<li>C# - .NET</li>
 	<li>Git</li>
 	<li>Jenkins</li>
 	<li>Cloud Foundry - Azure</li>
 	<li>Scrum and Kanban</li>
-	<li>TDD - Continuous Integration - Continuos Delivery</li>
+	<li>TDD - Continuous Integration - Continuous Delivery</li>
 </ul>
 
 <h2>Projects</h2>
