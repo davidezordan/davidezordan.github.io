@@ -18,7 +18,7 @@ Specialities: Mixed Reality, Virtual Reality, C#, JavaScript, HTML5, CSS3, React
 	<li>Mixed Reality - Virtual Reality - Augmented Reality</li>
 	<li>Unity</li>
 	<li>C# - .NET</li>
-	<li>ReactJS - Redux</li>
+	<li>React - Redux</li>
 	<li>JavaScript - HTML5 - CSS3</li>
 	<li>Node.js</li>
 	<li>Git</li>
@@ -31,6 +31,7 @@ Specialities: Mixed Reality, Virtual Reality, C#, JavaScript, HTML5, CSS3, React
 <h2>Projects</h2>
 
 <ul>
+	<li><a href="https://youtu.be/qMDZpuavwaM" target= "_blank">Black Dungeon VR</a></li>
 	<li><a href="https://github.com/davidezordan/RubeGoldberg" target= "_blank">Rube Goldberg VR</a></li>
 	<li><a href="https://github.com/davidezordan/Puzzler" target="_blank">Puzzler VR</a></li>
 	<li><a href="https://github.com/davidezordan/A-Maze" target="_blank">A Maze VR</a></li>
