@@ -1,9 +1,9 @@
 # main text of home
 name: Davide Zordan
-bio: Empowering people with emerging technologies. AR, VR, Mixed Reality developer and enthusiast. Opinions are my own.
+bio: Empowering people with emerging technologies. AR, VR, Mixed Reality developer and enthusiast.
 
 # twitter summary info
-description: Empowering people with emerging technologies. AR, VR, Mixed Reality developer and enthusiast. Opinions are my own.
+description: Empowering people with emerging technologies. AR, VR, Mixed Reality developer and enthusiast.
 
 # if it's an external image, update below for true
 # better with square images
@@ -56,7 +56,7 @@ email: mail@davide.dev
 authors:
     davidezordan:
         name: Davide Zordan
-        bio: Empowering people with emerging technologies. AR, VR, Mixed Reality developer and enthusiast. Opinions are my own.
+        bio: Empowering people with emerging technologies. AR, VR, Mixed Reality developer and enthusiast.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: davidezordan
