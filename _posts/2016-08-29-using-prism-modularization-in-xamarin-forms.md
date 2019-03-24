@@ -6,6 +6,7 @@ author: davidezordan
 layout: post
 guid: http://www.davidezordan.net/blog/?p=7893
 # permalink: /?p=7893
+category: blog
 categories:
   - .NET
   - Android
