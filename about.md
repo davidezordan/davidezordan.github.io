@@ -6,7 +6,7 @@ layout: page
 
 <p>I'm an award-winning, quality-focused technical professional with a strong history of success in Software Engineering, Research & Development and Quality Assurance Management as well as strategically aligning business objectives with customer demands.</p>
 
-<p>I'm very passionate about emerging technologies, in particular, Augmented / Virtual Reality application development using Unity and its possible applications for both enterprises and consumers.</p>
+<p>I'm very passionate about emerging technologies, in particular, Augmented / Virtual Reality development using Unity and its possible applications for both enterprises and consumers.</p>
 
 <p>My work and projects have been internationally recognised: I've been awarded five times Microsoft MVP (Most Valuable Professional) and invited to participate in the Developer Guidance Advisory Council.<p>
 
