@@ -10,7 +10,7 @@ layout: page
 
 <p>My work and projects have been internationally recognised: I've been awarded five times Microsoft MVP (Most Valuable Professional) and invited to participate in the Developer Guidance Advisory Council.<p>
 
-Specialities: Mixed Reality, Virtual Reality, C#, JavaScript, HTML5, CSS3, React, .NET, C#, MVVM, Unit Testing, Continuous Integration, Continuous Delivery, Jenkins, Scrum, Agile, HoloLens, Cloud Foundry.
+Specialities: Mixed Reality, Virtual Reality, C#, JavaScript, HTML5, CSS3, React, .NET, C#, Unit Testing, Continuous Integration, Continuous Delivery, Jenkins, Scrum, Agile, HoloLens, Cloud Foundry, Microsoft Azure.
 
 <h2>Skills</h2>
 
@@ -19,7 +19,6 @@ Specialities: Mixed Reality, Virtual Reality, C#, JavaScript, HTML5, CSS3, React
 	<li>Unity</li>
 	<li>React - Redux</li>
 	<li>JavaScript - HTML5 - CSS3</li>
-	<li>Node.js</li>
 	<li>C# - .NET</li>
 	<li>Git</li>
 	<li>Jenkins</li>
@@ -37,4 +36,5 @@ Specialities: Mixed Reality, Virtual Reality, C#, JavaScript, HTML5, CSS3, React
 	<li><a href="https://github.com/davidezordan/A-Maze" target="_blank">A Maze VR</a></li>
 	<li><a href="https://github.com/davidezordan/Build-an-apartment" target="_blank">Build an apartment VR</a></li>
 	<li><a href="https://github.com/davidezordan/CognitiveServicesSamples" target="_blank">HoloLens object recognizer</a></li>
+	<li><a href="https://www.nowtv.com" target="_blank">NOW TV for Xbox One</a></li>
 </ul>
