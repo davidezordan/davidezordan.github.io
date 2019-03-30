@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">Davide Zordan's blog - based on Indigo Minimalist Jekyll Template - <a href="http://sergiokopplin.github.io/indigo/">Demo</a></h2>
+    <h2 align="center">Davide Zordan's blog - based on <a href="http://sergiokopplin.github.io/indigo/">Indigo Minimalist Jekyll Template</a></h2>
 </p>
 
 ***
@@ -8,16 +8,11 @@
     <b><a href="README.md#what-has-inside">What has inside</a></b>
     |
     <b><a href="README.md#setup">Setup</a></b>
-    |
-    <b><a href="README.md#settings">Settings</a></b>
-    |
-    <b><a href="README.md#how-to">How to</a></b>
 </p>
 
 ## What has inside
 
-- [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) ~[RSCSS](http://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/)
-- Tests with [Travis](https://travis-ci.org/)
+- [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) and [SVG](https://www.w3.org/Graphics/SVG/)
 - Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
 - No JS. :sunglasses:
 
