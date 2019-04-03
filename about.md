@@ -34,6 +34,6 @@ Specialities: Mixed Reality, Virtual Reality, C#, JavaScript, HTML5, CSS3, React
 	<li><a href="https://github.com/davidezordan/RubeGoldberg" target= "_blank">Rube Goldberg VR</a></li>
 	<li><a href="https://github.com/davidezordan/A-Maze" target="_blank">A Maze VR</a></li>
 	<li><a href="https://github.com/davidezordan/CognitiveServicesSamples" target="_blank">HoloLens object recognizer</a></li>
-	<li><a href="https://github.com/davidezordan/Build-an-apartment" target="_blank">Build an apartment VR</a></li>
 	<li><a href="https://www.nowtv.com" target="_blank">NOW TV for Xbox One</a></li>
+	<li><a href="https://github.com/davidezordan/Build-an-apartment" target="_blank">Build an apartment VR</a></li>
 </ul>
