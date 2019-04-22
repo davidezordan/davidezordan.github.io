@@ -20,6 +20,8 @@ tags:
   - Universal Windows Platform
   - Xamarin.Forms
 ---
+<p style="text-align: center;"><img class="size-medium wp-image-7904 aligncenter" src="https://davide.dev/wp-content/uploads/2016/02/Using-PanGestureRecognizer.png" alt="Using the PanGestureRecognizer" width="256" height="500"></p>
+
 <p style="text-align: justify;">Recently I've blogged about Xamarin.Forms and&nbsp;how to create a XAML Behavior for enabling&nbsp;Multi-Touch gestures to generic elements and implementing a scale / pinch functionality.</p>
 
 <p style="text-align: justify;">Fortunately the framework provides <a href="https://developer.xamarin.com/guides/xamarin-forms/user-interface/gestures/" target="_blank" rel="noopener noreferrer">three types of recognizer</a> that greatly simplify the implementation:</p>
