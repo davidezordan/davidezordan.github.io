@@ -1,7 +1,7 @@
 ---
 id: 8336
 title: Slides and code from my Virtual Reality session at DDD Reading 2019
-date: 2019-10-12T14:30:27+00:00
+date: 2019-10-09T20:55:00+00:00
 author: davidezordan
 layout: post
 guid: https://davide.dev/slides-and-code-from-my-virtual-reality-session-at-ddd-reading-2019
