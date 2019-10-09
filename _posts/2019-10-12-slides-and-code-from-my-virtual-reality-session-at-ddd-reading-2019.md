@@ -16,6 +16,6 @@ tags:
   - HoloLens
 ---
 <p style="text-align: left;">I've just uploaded the slides and samples related to my session <em>Getting Started with Unity and AR/VR for the .NET Developer&nbsp;</em>at <a href="https://www.developerdeveloperdeveloper.com/" target="_blank" rel="noopener">DDD Reading 2019</a>.</p>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/zeMsW5ujp94IUH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/xGYh9G5NTT2DUb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 The source code is available on GitHub <a href="https://github.com/davidezordan/MixedRealitySamples/tree/master/SteamVR%20Demo" target="_blank" rel="noopener">GitHub.</a>
