@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">Davide Zordan's blog - based on <a href="http://sergiokopplin.github.io/indigo/">Indigo Minimalist Jekyll Template</a></h2>
+    <h2 align="center">Davide's blog - based on <a href="http://sergiokopplin.github.io/indigo/">Indigo Minimalist Jekyll Template</a></h2>
 </p>
 
 ***
@@ -13,8 +13,7 @@
 ## What has inside
 
 - [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) and [SVG](https://www.w3.org/Graphics/SVG/)
-- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
-- No JS. :sunglasses:
+- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdavide.dev);
 
 ## Setup
 
