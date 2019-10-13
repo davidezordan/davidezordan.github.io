@@ -5,7 +5,7 @@ date: 2019-10-09T20:55:00+00:00
 author: davidezordan
 layout: post
 guid: https://davide.dev/slides-and-code-from-my-virtual-reality-session-at-ddd-reading-2019
-image: ../wp-content/uploads/2019/10/DDD_DeveloperDay_2019.png
+image: /assets/images/posts/2019/10/DDD_DeveloperDay_2019.png
 categories:
   - Mixed Reality
   - Virtual Reality
