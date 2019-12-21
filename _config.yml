@@ -35,7 +35,7 @@ permalink: /:title/
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: davidezordan
+# twitter: davidezordan
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -75,7 +75,7 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: false
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
