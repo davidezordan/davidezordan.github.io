@@ -58,7 +58,7 @@ authors:
         bio: Senior Software Engineer
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: davidezordan
+#        twitter: davidezordan
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
