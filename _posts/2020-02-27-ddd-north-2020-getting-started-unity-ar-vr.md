@@ -1,6 +1,6 @@
 ---
 id: 8338
-title: Slides and code from my Virtual Reality / Azure Cognitive Services session at Azure Day Rome 2019
+title: Slides and code from my session about AR/VR at DDD North 2020 conference
 date: 2020-02-27T22:57:00+00:00
 author: davidezordan
 layout: post
