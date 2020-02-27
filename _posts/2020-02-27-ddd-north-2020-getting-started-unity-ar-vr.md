@@ -15,7 +15,8 @@ tags:
   - Unity
   - Virtual Reality
 ---
-<p style="text-align: left;">I've just uploaded the slides and samples related to my session <em>Getting started with Unity and AR/VR for the .NET developer at <a href="https://www.dddnorth.co.uk/" target="_blank" rel="noopener">DDD North 2020 conference</a>.</p>
+<p style="text-align: left;">I've just uploaded the slides and samples related to my session <em>Getting started with Unity and AR/VR for the .NET developer &nbsp;</em> at <a href="https://www.dddnorth.co.uk/" target="_blank" rel="noopener">DDD North 2020 conference</a>.
+</p>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/qSGfIFHEktnriE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 The source code is available on GitHub:
