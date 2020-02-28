@@ -23,3 +23,4 @@ tags:
 The source code is available on GitHub:
 - <a href="https://github.com/davidezordan/MixedRealitySamples/tree/master/SteamVR%20Demo" target="_blank" rel="noopener">Interactions and locomotion using SteamVR</a>
 - <a href="https://github.com/davidezordan/CognitiveServicesSamples" target="_blank" rel="noopener">HoloLens object recogniser using Azure Cognitive Services</a>
+- <a href="https://github.com/provencher/MRTK-Quest" target="_blank" rel="noopener">MRTK-Quest - Mixed Reality Toolkit Extensions for Oculus Quest</a>
