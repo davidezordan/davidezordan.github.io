@@ -7,6 +7,7 @@ author: davidezordan
 guid: https://medium.com/p/6e21dfab1510
 # permalink: /?p=8388
 image: /wp-content/uploads/2018/12/Puzzler-VR.jpeg
+headerImage: true
 categories:
   - Mixed Reality
   - Mobile
