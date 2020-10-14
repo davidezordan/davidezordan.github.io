@@ -12,8 +12,7 @@ categories:
   - Azure
 category: blog
 image: /assets/images/posts/2020/01/DDD_North_2020.png
-headerImage: false
-tags:
+headerImage: true
   - Unity
   - Virtual Reality
 ---

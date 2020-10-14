@@ -6,7 +6,7 @@ author: davidezordan
 layout: post
 guid: https://davide.dev/azure-day-rome-2019-getting-started-unity-vr-azure
 image: /assets/images/posts/2019/11/azure-day-rome-2019-getting-started-unity-vr-azure.png
-headerImage: false
+headerImage: true
 categories:
   - Mixed Reality
   - Virtual Reality

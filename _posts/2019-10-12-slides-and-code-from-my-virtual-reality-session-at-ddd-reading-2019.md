@@ -6,7 +6,7 @@ author: davidezordan
 layout: post
 guid: https://davide.dev/slides-and-code-from-my-virtual-reality-session-at-ddd-reading-2019
 image: /assets/images/posts/2019/10/DDD_DeveloperDay_2019.png
-headerImage: false
+headerImage: true
 categories:
   - Mixed Reality
   - Virtual Reality
