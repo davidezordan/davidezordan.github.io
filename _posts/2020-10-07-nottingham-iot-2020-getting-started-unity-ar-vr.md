@@ -12,7 +12,7 @@ categories:
   - Azure
 category: blog
 image: /assets/images/posts/2020/AR-VR-Presentation.png
-headerImage: true
+headerImage: false
 tags:
   - Unity
   - Virtual Reality
