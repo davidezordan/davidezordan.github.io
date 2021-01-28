@@ -27,4 +27,4 @@ The source code is available on GitHub:
 - <a href="https://github.com/davidezordan/MixedRealitySamples/tree/master/SteamVR%20Demo" target="_blank" rel="noopener">Interactions and locomotion using SteamVR</a>
 - <a href="https://github.com/davidezordan/CognitiveServicesSamples" target="_blank" rel="noopener">HoloLens object recogniser using Azure Cognitive Services</a>
 - <a href="https://github.com/microsoft/MixedRealityToolkit-Unity" target="_blank" rel="noopener">Mixed Reality Toolkit</a>
-- <a href="https://github.com/provencher/MRTK-Quest-Sample" target="_blank" rel="noopener">MRTK sample by Eric Provencher</a>
+- <a href="https://github.com/provencher/MRTK-Quest-Sample" target="_blank" rel="noopener">MRTK hand tracking sample using Oculus Quest by Eric Provencher</a>
