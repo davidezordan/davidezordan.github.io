@@ -15,7 +15,7 @@ tags:
   - Unity
 ---
 <p style="text-align: justify;">
-Patrick, the creator of the code analysis tool NDepend, recently contacted me and asked if I could provide some feedback about the latest release, v2021.1. I was pleasantly surprised to find support for both Unity and mobile applications development, as explained in detail in the release notes.
+Patrick, the creator of the code analysis tool NDepend, recently contacted me and asked if I could provide some feedback about the latest release, v2021.1. I was pleasantly surprised to find support for both Unity and mobile applications development, as explained in detail in the <a href="https://www.ndepend.com/whatsnew" target="_blank">release notes</a>.
 </p>
 
 <p style="text-align: justify;">
@@ -23,7 +23,7 @@ The new Unity application support is particularly noteworthy: it enables complet
 </p>
 
 <p style="text-align: justify;">
-For this reason, NDepend default settings have been updated not to highlight false positives: as an example, the Fields should be declared as private rule is now disabled for these projects as it is often better, for performance reasons, to use fields instead of properties (some excellent presentations about performance from the Unite Now 2020 conference are available here and here).
+For this reason, NDepend default settings have been updated not to highlight false positives: as an example, the <em>Fields should be declared as private rule</em> is now disabled for these projects as it is often better, for performance reasons, to use fields instead of properties (some excellent presentations about performance from the Unite Now 2020 conference are available <a href="https://www.youtube.com/watch?v=ZRDHEqy2uPI" target="_blank">here</a> and <a href="https://www.youtube.com/watch?v=EK8sX8oCQbw" target="_blank">here</a>).
 </p>
 
 <p style="text-align: justify;">
