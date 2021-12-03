@@ -25,5 +25,4 @@ tags:
 </iframe>
 </p>
 
-The full video of the presentation is available on YouTube:
-https://www.youtube.com/watch?v=fNJaF6DR5Cs
+The full video of the presentation is available on <a href="https://www.youtube.com/watch?v=fNJaF6DR5Cs" target="_blank" rel="noopener">YouTube</a>.
