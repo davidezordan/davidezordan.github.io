@@ -24,3 +24,6 @@ tags:
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/JQkvam5dqVepO" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
 </iframe>
 </p>
+
+The full video of the presentation is available on YouTube:
+https://www.youtube.com/watch?v=fNJaF6DR5Cs
