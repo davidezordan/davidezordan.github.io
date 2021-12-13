@@ -24,6 +24,7 @@ The new Unity application support is particularly noteworthy: it enables complet
 
 <p style="text-align: justify;">
 For this reason, NDepend default settings have been updated not to highlight false positives: as an example, the <em>Fields should be declared as private rule</em> is now disabled for these projects as it is often better, for performance reasons, to use fields instead of properties (some excellent presentations about performance from the Unite Now 2020 conference are available <a href="https://www.youtube.com/watch?v=ZRDHEqy2uPI" target="_blank">here</a> and <a href="https://www.youtube.com/watch?v=EK8sX8oCQbw" target="_blank">here</a>).
+Another improvement of v2021.1 includes the optimisation of assembly references. When a third-party or framework assembly referenced by some application assemblies is not found at analysis time, it is now built from its references instead of being reported as not found.
 </p>
 
 <p style="text-align: justify;">
