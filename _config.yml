@@ -57,7 +57,7 @@ authors:
         name: Davide Zordan
         bio: Senior Software Engineer
         external-image: false
-        picture: assets/images/profile.jpg
+        # picture: assets/images/profile.jpg
         twitter: davidezordan
 
 # do you want a larger site? change the option below
@@ -73,7 +73,7 @@ width: large
 projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+about: false
 blog: true
 
 # do you want to show the "read time" of the posts?
