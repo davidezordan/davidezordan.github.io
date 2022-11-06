@@ -1,6 +1,6 @@
 ---
 id: 8340
-title: Slides from my session at Global XR Conference 2021
+title: Slides and code from my session about AR/VR and point clouds at Global XR Conference 2022
 date: 2022-11-06T12:59:00+00:00
 author: davidezordan
 layout: post
