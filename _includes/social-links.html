@@ -102,7 +102,9 @@
     {% endif %}
 
     {% if site.mastodon %}
-        <a rel="me" href="https://hci.social/@davidezordan">Mastodon</a>
+        <a rel="me" class="link" data-title="hci.social/{{ site.mastodon }}" href="https://hci.social/{{ site.mastodon }}" target="_blank">
+            <svg class="icon icon-microphone"><use xlink:href="#icon-microphone"></use></svg>
+        </a>
     {% endif %}
 
     {% if site.email %}
