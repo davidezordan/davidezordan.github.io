@@ -11,7 +11,7 @@ author: davidezordan
 externalLink: false
 ---
 
-![Screenshot](https://github.com/davidezordan/remote-telepresence-vr/blob/main/images/remote_telepresence.jpg)
+![Screenshot](assets/images/posts/2023/remote_telepresence.jpg)
 
 *Combining Augmented and Virtual Reality for Remote Collaboration*.
 
