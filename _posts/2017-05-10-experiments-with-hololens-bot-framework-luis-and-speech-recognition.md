@@ -5,6 +5,7 @@ date: 2017-05-10T14:02:41+00:00
 author: davidezordan
 layout: post
 guid: http://www.davidezordan.net/blog/?p=8130
+projects: true
 # permalink: /?p=8130
 categories:
   - .NET
