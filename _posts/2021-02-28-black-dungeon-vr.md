@@ -1,7 +1,7 @@
 ---
 title: "Black Dungeon VR"
 layout: post
-date: 2020-07-28T12:59:00+00:00
+date: 2021-07-28T12:59:00+00:00
 headerImage: true
 projects: true
 hidden: true
@@ -23,3 +23,5 @@ I built this simple game, targeting Oculus Rift and Windows Mixed Reality headse
 ✓ Added Natural Language Processing (NLP) using Microsoft Azure Cognitive Services and Microsoft Azure Language Understanding (LUIS).
 
 ✓ Used assets from the Unity Assets Store for the environment.
+
+More details about the implementation and findings have also been described in this session at the [NDC London 2021 Conference](https://www.youtube.com/watch?v=sFY-vrZmHow). Slides are available [here](https://davide.dev/ndc-london-2021-getting-started-unity-ar-vr/).
