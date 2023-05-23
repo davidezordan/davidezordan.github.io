@@ -21,7 +21,7 @@ url: https://davide.dev
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-66374079-2'
+# analytics-google: 'UA-66374079-2'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -71,7 +71,7 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: false
