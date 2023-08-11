@@ -10,6 +10,7 @@ categories:
   - Mixed Reality
   - Universal Windows Platform
 category: blog
+hidden: true
 tags:
   - 'C#'
   - HoloLens
