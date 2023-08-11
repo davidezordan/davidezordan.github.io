@@ -4,6 +4,7 @@ title: 'Slides from my presentation about Mixed Reality'
 date: 2019-03-14T20:27:48+00:00
 author: davidezordan
 layout: post
+hidden: true
 guid: https://davide.dev/slides-from-my-mixed-reality-presentation
 categories:
   - Mixed Reality
