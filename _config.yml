@@ -51,7 +51,7 @@ github: davidezordan
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 # mastodon: davidezordan
-email: mail@davide.dev
+email: mail@davidezordan.net
 
 authors:
     davidezordan:
@@ -75,7 +75,7 @@ width: large
 
 # if you don't need "about" or "blog", comment them out below
 about: false
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
