@@ -4,7 +4,7 @@ title: Experiments with HoloLens, Bot Framework, LUIS and Speech Recognition
 date: 2017-05-10T14:02:41+00:00
 author: davidezordan
 layout: post
-guid: http://www.davidezordan.net/blog/?p=8130
+guid: https://davidezordan.github.io/experiments-with-hololens-bot-framework-luis-and-speech-recognition
 projects: true
 # permalink: /?p=8130
 categories:
