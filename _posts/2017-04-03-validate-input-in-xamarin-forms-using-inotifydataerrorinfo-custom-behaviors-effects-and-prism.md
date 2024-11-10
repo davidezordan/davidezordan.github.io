@@ -4,7 +4,7 @@ title: Validate input in Xamarin.Forms using INotifyDataErrorInfo, custom Behavi
 date: 2017-04-03T20:16:48+00:00
 author: davidezordan
 layout: post
-guid: http://www.davidezordan.net/blog/?p=8093
+guid: https://davidezordan.github.io/validate-input-in-xamarin-forms-using-inotifydataerrorinfo-custom-behaviors-effects-and-prism
 # permalink: /?p=8093
 category: blog
 tags:
