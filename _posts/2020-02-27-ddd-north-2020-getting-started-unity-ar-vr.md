@@ -4,7 +4,7 @@ title: Slides and code from my session about AR/VR at DDD North 2020 conference
 date: 2020-02-27T22:57:00+00:00
 author: davidezordan
 layout: post
-guid: https://davide.dev/ddd-north-2020-getting-started-unity-ar-vr
+guid: https://davidezordan.github.io/ddd-north-2020-getting-started-unity-ar-vr
 categories:
   - Mixed Reality
   - Virtual Reality
