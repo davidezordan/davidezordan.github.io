@@ -4,7 +4,7 @@ title: Using Prism modularization in Xamarin.Forms
 date: 2016-08-29T10:48:29+00:00
 author: davidezordan
 layout: post
-guid: http://www.davidezordan.net/blog/?p=7893
+guid: https://davidezordan.github.io/using-prism-modularization-in-xamarin-forms
 # permalink: /?p=7893
 category: blog
 categories:
