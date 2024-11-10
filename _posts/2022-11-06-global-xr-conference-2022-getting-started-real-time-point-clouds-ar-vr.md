@@ -4,7 +4,7 @@ title: Slides and code from my session about AR/VR and point clouds at Global XR
 date: 2022-11-06T12:59:00+00:00
 author: davidezordan
 layout: post
-guid: https://davide.dev/global-xr-conference-2022-getting-started-real-time-point-clouds-ar-vr
+guid: https://davidezordan.github.io/global-xr-conference-2022-getting-started-real-time-point-clouds-ar-vr
 categories:
   - Mixed Reality
   - Virtual Reality
