@@ -4,7 +4,7 @@ title: Analysing Unity projects using NDepend v2021.1
 date: 2021-09-04T20:24:00+00:00
 author: davidezordan
 layout: post
-guid: https://davide.dev/ndepend-unity-support
+guid: https://davidezordan.github.io/ndepend-unity-support
 categories:
   - C#
   - Unity
