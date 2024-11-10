@@ -5,7 +5,7 @@ date: 2019-03-14T20:27:48+00:00
 author: davidezordan
 layout: post
 hidden: true
-guid: https://davide.dev/slides-from-my-mixed-reality-presentation
+guid: https://davidezordan.github.io/slides-from-my-mixed-reality-presentation
 categories:
   - Mixed Reality
   - Virtual Reality
