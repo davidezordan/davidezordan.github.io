@@ -4,7 +4,7 @@ title: 'Experiments with HoloLens, Bot Framework and LUIS: adding text to speech
 date: 2017-07-27T12:40:07+00:00
 author: davidezordan
 layout: post
-guid: http://www.davidezordan.net/blog/?p=8187
+guid: https://davidezordan.github.io/experiments-with-hololens-bot-framework-and-luis-adding-text-to-speech
 # permalink: /?p=8187
 categories:
   - .NET
