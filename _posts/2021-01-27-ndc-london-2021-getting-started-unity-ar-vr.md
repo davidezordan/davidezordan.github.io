@@ -4,7 +4,7 @@ title: Slides and code from my session at NDC London 2021
 date: 2021-01-27T13:24:00+00:00
 author: davidezordan
 layout: post
-guid: https://davide.dev/ndc-london-2021-getting-started-unity-ar-vr
+guid: https://davidezordan.github.io/ndc-london-2021-getting-started-unity-ar-vr
 categories:
   - Mixed Reality
   - Virtual Reality
