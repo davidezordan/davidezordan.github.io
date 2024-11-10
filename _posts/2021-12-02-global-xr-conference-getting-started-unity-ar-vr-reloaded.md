@@ -4,7 +4,7 @@ title: Slides from my session at Global XR Conference 2021
 date: 2021-12-02T12:59:00+00:00
 author: davidezordan
 layout: post
-guid: https://davide.dev/global-xr-conference-getting-started-unity-ar-vr-reloaded
+guid: https://davidezordan.github.io/global-xr-conference-getting-started-unity-ar-vr-reloaded
 categories:
   - Mixed Reality
   - Virtual Reality
