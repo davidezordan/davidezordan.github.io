@@ -4,7 +4,7 @@ title: 'Slides and code from my HoloLens &#038; Cognitive Services session at DD
 date: 2018-03-24T14:22:48+00:00
 author: davidezordan
 layout: post
-guid: http://www.davidezordan.net/blog/?p=8288
+guid: https://davidezordan.github.io/slides-and-code-from-my-hololens-cognitive-services-session-at-ddd-wales
 # permalink: /?p=8288
 categories:
   - Mixed Reality
