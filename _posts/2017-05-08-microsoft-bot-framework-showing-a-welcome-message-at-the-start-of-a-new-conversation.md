@@ -4,7 +4,7 @@ title: 'Microsoft Bot Framework: showing a welcome message at the start of a new
 date: 2017-05-08T14:33:08+00:00
 author: davidezordan
 layout: post
-guid: http://www.davidezordan.net/blog/?p=8119
+guid: https://davidezordan.github.io/microsoft-bot-framework-showing-a-welcome-message-at-the-start-of-a-new-conversation
 # permalink: /?p=8119
 categories:
   - .NET
