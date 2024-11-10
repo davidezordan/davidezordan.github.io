@@ -4,7 +4,7 @@ title: 'Xamarin.Forms: using the PanGestureRecognizer'
 date: 2016-02-28T16:10:10+00:00
 author: davidezordan
 layout: post
-guid: http://www.davidezordan.net/blog/?p=7489
+guid: https://davidezordan.github.io/xamarin-forms-using-the-pangesturerecognizer-Xamarin.Forms-using-the-PanGestureRecognizer
 # permalink: /?p=7489
 category: blog
 categories:
